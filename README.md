@@ -2,6 +2,8 @@
 
 Official implementation of **MangoBench** (CVPR 2026).
 
+MangoBench is the first fully cooperative multi-goal benchmark for offline MARL, covering 47 tasks across locomotion and bimanual manipulation. See the [project page](https://wendyeewang.github.io/MangoBench/) for videos and more details about the environments, tasks, and baseline algorithms.
+
 **Note:** The manipulation environment code is available at [mangobench-manipulation](https://github.com/WendyeeWang/mangobench-manipulation).
 
 ## Installation
