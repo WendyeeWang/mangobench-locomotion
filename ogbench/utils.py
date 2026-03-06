@@ -5,8 +5,7 @@ import gymnasium
 import numpy as np
 from tqdm import tqdm
 
-# DEFAULT_DATASET_DIR = '~/.ogbench/data'
-DEFAULT_DATASET_DIR = '/mnt/afs/L202500131/.ogbench/data'
+DEFAULT_DATASET_DIR = '~/.ogbench/data'
 DATASET_URL = 'https://rail.eecs.berkeley.edu/datasets/ogbench'
 
 
