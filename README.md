@@ -2,6 +2,8 @@
 
 Official implementation of **MangoBench** (CVPR 2026).
 
+**Note:** The manipulation environment code is available at [mangobench-manipulation](https://github.com/WendyeeWang/mangobench-manipulation).
+
 ## Installation
 ```bash
 conda create -n mangobench python=3.10
